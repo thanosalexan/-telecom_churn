@@ -1,4 +1,4 @@
-# -telecom_churn
+#telecom_churn
 
 **PART 1: Understanding Customer Churn (Descriptive)**
 The first part of the project provides a comprehensive analysis of customer churn in a telecommunications company. It explores the dataset, which includes customer observations and usage details, to identify the variables related to churn. The report examines the importance of variables, the need for transformations, and assesses the model's performance. It discusses assumptions that need careful consideration and presents a detailed explanation of the chosen model, supported by tables and plots.
